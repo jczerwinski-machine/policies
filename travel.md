@@ -13,7 +13,7 @@
 
 6. Vehicle rentals will be for compact, mid-size, or full-size vehicles as need requires. Costs will include rental fees, fuel charges, kilometer charges, and insurance coverage.
 
-7. Ground transport will be bus when possible, if not then taxi. No limos or private car service unless objectively and demonstratively cheaper than a taxi.
+7. Ground transport will be bus when possible, if not then taxi. No limos or private car service unless objectively and demonstratively cheaper than a taxi. 
 
 8. Parking will be the actual cost of parking and will require a receipt.
 

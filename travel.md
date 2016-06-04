@@ -1,3 +1,4 @@
+![ab-GPAC](ab-gpac.png)
 # Travel Policy
 
 1. A travel budget will be approved by Motion of the Board before travel is undertaken.

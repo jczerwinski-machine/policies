@@ -15,7 +15,7 @@ This policy is intended to establish a foundation for effective governance as we
    All Members of Board shall communicate and work towards the effective and consistent implementation of the positions and decisions of the Board, even if they disagree with Board decisions. In this way, Directors will foster respect for the democratic decision making process.
 
 3. Release of Confidential Information 
-   Members of the Board shall hold in strict confidence all information concerning matters deemed confidential.   A Member of the Board shall not, either directly or indirectly, release, make public or in any way divulge any information which is deemed to be confidential unless expressly authorized by the Board or required by law to do so.  Confidential information includes:
+   Members of the Board shall hold in strict confidence all information concerning matters deemed confidential.   A Member of the Board shall not, either directly or indirectly, release, make public or in any way divulge any information which is deemed to be confidential unless expressly authorized by the Board or required by law to do so.  Confidential information includes: 
 
    1. Any aspect of in camera deliberations;
    2. Information identified as confidential within the provisions of the Personal Information Protection Act.
